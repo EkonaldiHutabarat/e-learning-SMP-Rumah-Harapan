@@ -17,8 +17,8 @@ $CFG->dboptions = array (
   'dbsocket' => '',
   'dbcollation' => 'utf8mb4_unicode_ci',
 );
-
-$CFG->wwwroot   = 'https://localhost/AllProject/TA1/moodle';
+//https://localhost/AllProject/TA1/moodle
+$CFG->wwwroot   = 'https:hopeschool.com';
 $CFG->dataroot  = '/opt/lampp/moodledata';
 $CFG->admin     = 'admin';
 
