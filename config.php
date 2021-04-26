@@ -19,8 +19,8 @@ $CFG->dboptions = array (
 );
 //https://localhost/AllProject/TA1/moodle
 // /opt/lampp/moodledata
-$CFG->wwwroot   = 'http://103.102.153.219/hopeschool.com/';
-$CFG->dataroot  = '/path.../moodledata';
+$CFG->wwwroot   = 'https://103.102.153.219/hopeschool.com/TA1/moodle';
+$CFG->dataroot  = '/home/moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
